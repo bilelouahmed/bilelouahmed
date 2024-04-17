@@ -1,6 +1,6 @@
 # Hello world ! 😸
 
-Hello World !<br><br>I'm Bilel, french R&D engineer in Artificial Intelligence from Centrale Marseille Engineering School.<br>Self-learner, also interested in the whole world of computer science.
+I'm Bilel, french R&D engineer in Artificial Intelligence from Centrale Marseille Engineering School.<br>Self-learner, also interested in the whole world of computer science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilel-ouahmed-210058193) 
