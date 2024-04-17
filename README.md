@@ -1,4 +1,5 @@
-# Hello world !
+# Hello world ! 😸
+
 Hello World !<br><br>I'm Bilel, french R&D engineer in Artificial Intelligence from Centrale Marseille Engineering School.<br>Self-learner, also interested in the whole world of computer science.
 
 ## 🌐 Socials:
